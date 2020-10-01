@@ -10,14 +10,14 @@ This code book describes all of the data fields in the tidy.txt file.
   - 1 - 30
 
 
-activity - string - The type of activity that they were performing when the measurements were taken
+- activity - string - The type of activity that they were performing when the measurements were taken
 
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
-Laying
+  - Walking
+  - Walking Upstairs
+  - Walking Downstairs
+  - Sitting
+  - Standing
+  - Laying
 
 
 
