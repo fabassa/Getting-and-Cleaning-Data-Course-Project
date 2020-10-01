@@ -3,6 +3,7 @@ This repository was built for the course project of the "Getting and Cleaning Da
 
 **<h2>Project Summary</h2>**
 The goal of this project is to create a tidy data data set with the help of R to analyze experimental results which were captured in the [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) study.
+
 The run_analysis.R script should be run on the [data] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and it will complete the following steps to transform the data into something that we are able to glean information out of.
 
 1. Merges the training and the test sets to create one data set.
