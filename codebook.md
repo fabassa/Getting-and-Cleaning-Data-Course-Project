@@ -1,16 +1,16 @@
 **<h1>Code Book</h1>**
-This code book describes all of the data fields in the tidy.txt file.
+This code book describes all of the data fields in the ```tidy.txt``` file.
 
 
 **<h1>Identifiers</h1>**
 
 
-- ```subject``` - integer - The ID of the test subject
+- ```subject``` - ```integer``` - The ID of the test subject
 
   - 1 - 30
 
 
-- activity - string - The type of activity that they were performing when the measurements were taken
+- ```activity``` - ```string``` - The type of activity that they were performing when the measurements were taken
 
   - Walking
   - Walking Upstairs
@@ -23,7 +23,7 @@ This code book describes all of the data fields in the tidy.txt file.
 
 
 **<h1>Measurements</h1>**
-These variables are all of the mean values for the corresponding measurement based on the subject and the activity.  These are all of data type numeric.
+These variables are all of the ```mean``` values for the corresponding measurement based on the subject and the activity.  These are all of data type ```numeric```.
 
 - tBodyAccmeanX
 - tBodyAccmeanY
