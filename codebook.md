@@ -1,12 +1,13 @@
 **<h1>Code Book</h1>**
 This code book describes all of the data fields in the tidy.txt file.
 
-**Identifiers**
+**<h1>Identifiers</h1>**
 
 
-subject - integer - The ID of the test subject
+<ol>subject - integer - The ID of the test subject
 
-1 - 30
+<li>1 - 30</li>
+</ol>
 
 
 
@@ -22,7 +23,7 @@ Laying
 
 
 
-**Measurements**
+**<h1>Measurements</h1>**
 These variables are all of the mean values for the corresponding measurement based on the subject and the activity.  These are all of data type numeric.
 
 tBodyAccmeanX
