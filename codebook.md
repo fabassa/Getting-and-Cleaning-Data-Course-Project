@@ -5,7 +5,7 @@ This code book describes all of the data fields in the tidy.txt file.
 **<h1>Identifiers</h1>**
 
 
-- subject - integer - The ID of the test subject
+- ```subject``` - integer - The ID of the test subject
 
   - 1 - 30
 
