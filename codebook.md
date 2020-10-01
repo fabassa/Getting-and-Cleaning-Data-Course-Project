@@ -7,7 +7,7 @@ This code book describes all of the data fields in the tidy.txt file.
 
 - subject - integer - The ID of the test subject
 
-- 1 - 30
+  - 1 - 30
 
 
 activity - string - The type of activity that they were performing when the measurements were taken
