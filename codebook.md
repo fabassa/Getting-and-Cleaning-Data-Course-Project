@@ -1,14 +1,13 @@
 **<h1>Code Book</h1>**
 This code book describes all of the data fields in the tidy.txt file.
 
+
 **<h1>Identifiers</h1>**
 
 
-<ol>subject - integer - The ID of the test subject
+*subject - integer - The ID of the test subject
 
-<li>1 - 30</li>
-</ol>
-
+*1 - 30
 
 
 activity - string - The type of activity that they were performing when the measurements were taken
